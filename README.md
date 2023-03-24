@@ -4,7 +4,7 @@ Ever wondered what the ideal *(scientific) workflow* would look like? And what k
 
 - **Data access**: You should definitely check out **[Datahugger :open_hands:](https://github.com/j535d165/datahugger)**, the easiest way to download scientific data! Other projects are **[pyalex](https://github.com/j535d165/pyalex)** (new!), **[cbsodata](https://github.com/j535d165/cbsodata)**, and **[rispy](https://github.com/MrTango/rispy)**. 
 
-- **Faster reading**: Can we make systematic reviews fun to work on by using AI for the boring 💤 parts? With **[ASReview](https://github.com/asreview/asreview)** and [asreview.ai](https://asreview.ai), we speed up systematic reviewing. I'm lead of ASReview' developers team. 
+- **Faster reading**: Can we make systematic reviews fun to work on by using AI for the boring 💤 parts? With **[ASReview](https://github.com/asreview/asreview)** and [asreview.ai](https://asreview.ai), we speed up systematic reviewing. I'm lead of ASReview' development team. 
 
 - **Transparent workflows**: I'm experimenting with projects like **[scitree](https://github.com/j535d165/scitree)** and **[scisort](https://github.com/j535d165/scisort)**, which help and promote to use repoducible project folder structures.
 

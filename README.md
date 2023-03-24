@@ -2,7 +2,7 @@
 
 Ever wondered what the ideal **(scientific) workflow** would look like? And what kind of tools you need for it? It's maybe an impossible question to anser, but many will say the workflow should be **efficient**, **transparent**, and **reproducible**. I don't know the answer as well, but I fully support these principles. Over the past years, I've used my GitHub profile to share and collaborate on projects aimed at developing the ideal academic workflow. The following projects are my top interest at the moment:
 
-- **Data access**: If you're looking for an easy way to download scientific data, be sure to check out **[Datahugger :open_hands:](https://github.com/j535d165/datahugger)**, the easiest way to download scientific data! I'm also involved in projects like **[pyalex](https://github.com/j535d165/pyalex)** (new!), **[cbsodata](https://github.com/j535d165/cbsodata)**, and **[rispy](https://github.com/MrTango/rispy)**. 
+- **Data access**: If you're looking for an easy way to download scientific data, be sure to check out **[Datahugger :open_hands:](https://github.com/j535d165/datahugger)** - the easiest way to download scientific data! I'm also involved in projects like **[pyalex](https://github.com/j535d165/pyalex)** (new!), **[cbsodata](https://github.com/j535d165/cbsodata)**, and **[rispy](https://github.com/MrTango/rispy)**. 
 
 - **Faster reading**: Can we make systematic reviews fun to work on by using AI for the boring 💤 parts? With **[ASReview](https://github.com/asreview/asreview)** and [asreview.ai](https://asreview.ai), we speed up systematic reviewing. I'm lead of ASReview' development team. 
 

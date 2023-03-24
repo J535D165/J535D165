@@ -10,7 +10,7 @@ Ever wondered what the ideal **(scientific) workflow** would look like? And what
 
 - **Data linkage**: I work on projects like **[recordlinkage](https://github.com/j535d165/recordlinkage)** and **[List of data matching software](https://github.com/j535d165/data-matching-software)**. Although my attention may sometimes waver from these projects, but they are still close to my heart ❤️.
 
-Besides this, you can find me at [Utrecht University](https://www.uu.nl/en/research/open-science/tracks/fair-data-and-software) (The Netherlands) as the project lead of the open and [FAIR](https://www.go-fair.org/fair-principles/) Data and Software movement. 
+In addtion to this, you can also find me at [Utrecht University](https://www.uu.nl/en/research/open-science/tracks/fair-data-and-software) (in the Netherlands) as the project lead for the Open and [FAIR](https://www.go-fair.org/fair-principles/) Data and Software movement. 
 
 
 ## 💬

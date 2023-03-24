@@ -1,6 +1,6 @@
 #  Hi, I'm `Jonathan` `//J535D165`
 
-Ever wondered what the ideal *(scientific) workflow* would look like? And what kind of tools you need for it? It's maybe an impossible question to anser, but many will say the workflow should be **efficient**, **transparent**, and **reproducible**. I don't know the answer as well, but I fully support these principles. Over the past years, I'm using my GitHub profile to share and collaborate on projects to aim for the ideal academic workflow. The following projects are my top interest at the moment:
+Ever wondered what the ideal **(scientific) workflow** would look like? And what kind of tools you need for it? It's maybe an impossible question to anser, but many will say the workflow should be **efficient**, **transparent**, and **reproducible**. I don't know the answer as well, but I fully support these principles. Over the past years, I'm using my GitHub profile to share and collaborate on projects to aim for the ideal academic workflow. The following projects are my top interest at the moment:
 
 - **Data access**: You should definitely check out **[Datahugger :open_hands:](https://github.com/j535d165/datahugger)**, the easiest way to download scientific data! Other projects are **[pyalex](https://github.com/j535d165/pyalex)** (new!), **[cbsodata](https://github.com/j535d165/cbsodata)**, and **[rispy](https://github.com/MrTango/rispy)**. 
 

@@ -1,0 +1,42 @@
+[recordlinkage]
+  pypi=true
+[pyalex]
+  pypi=true
+[scitree]
+  pypi=true
+[scisort]
+  pypi=true
+[datahugger]
+  pypi=true
+[cbsodata]
+  pypi=true
+
+[asreview]
+  org="asreview"
+  pypi=true
+[asreview-wordcloud]
+  org="asreview"
+  pypi=true
+[asreview-insights]
+  org="asreview"
+  pypi=true
+[asreview-datatools]
+  org="asreview"
+  pypi=true
+[asreview-makita]
+  org="asreview"
+  pypi=true
+[synergy-dataset-py]
+  org="asreview"
+[synergy-dataset]
+  org="asreview"
+  pypi=true
+[asreview-covid19]
+  org="asreview"
+  pypi=true
+
+[awesome-citizen-science-nl]
+  org="sodascience"
+
+[awesome-utrecht-university]
+  org="utrechtuniversity"

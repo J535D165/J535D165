@@ -29,4 +29,4 @@ if __name__ == '__main__':
     print(df)
 
     with open("PROJECTS.md", "w") as f:
-        f.write(df.to_markdown())
+        f.write(df.to_markdown(index=False))

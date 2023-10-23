@@ -2,6 +2,8 @@
   pypi=true
 [pyalex]
   pypi=true
+[py3data]
+  pypi=true
 [scitree]
   pypi=true
 [scisort]

@@ -18,7 +18,7 @@ jobs:
         python-version: "3.12"
     - name: Install dependencies
       run: |
-        pip install pandas
+        pip install pandas tabulate
     - name: Render projects
       run: |
         python render.py
